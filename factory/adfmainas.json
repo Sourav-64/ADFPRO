@@ -1,0 +1,15 @@
+{
+	"name": "adfmainas",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea7efcd6-27ef-429f-91f7-93419d430e92",
+		"tenantId": "a35cb653-5147-4433-979e-4e6db5850e9d"
+	}
+}
